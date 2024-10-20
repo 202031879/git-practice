@@ -1,5 +1,5 @@
 *.class
-*.o
 *.so
 *.dll
 *.exe
+# ignore some file
